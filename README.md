@@ -2,6 +2,12 @@
 Record my homework for Learning ML and CV.
 
 ---
+---
+
+##  Updated on 2019-07-31
+Submit the coding homework for week5.
+
+---
 
 ## Updated on 2019-07-24
 Revised on the 1st homework of week2 (median filtering/blur). The 2nd homework (RANSAC) is still under way.
